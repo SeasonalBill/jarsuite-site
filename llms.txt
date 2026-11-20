@@ -1,0 +1,18 @@
+# Jar Suite
+
+Jar Suite is software for lawn care and home service companies, built by Seasonal Lawncare and Mosquito Pros in Western New York. Each Jar does one job. It is not a full office system for scheduling, routing or billing.
+
+Website: https://jarsuite.com/
+Access: Request access at https://jarsuite.com/contact/. Accounts for outside companies are opened one at a time. There is no self-serve sign-up.
+
+## Products and prices (US dollars, as of 2026-11-20)
+
+- QuoteJar (https://jarsuite.com/quotejar/) — Lawn care instant quote software. A homeowner enters an address on the company website and gets a lawn quote. The lawn is measured as part of the quote. Spam filter for website leads is included. Lawn only; mosquito and pest quoting is not included yet. $300 per month.
+- SalesJar (https://jarsuite.com/salesjar/) — Daily sales dashboard. Daily sales, month to date, year over year, cancels and production, pulled from the office software every day. $399 per month.
+- TipJar (https://jarsuite.com/tipjar/) — Review request software. After a visit it asks for a Google or Facebook review and collects a post-service survey, including an NPS-style score. Office scoreboards by technician. $449 per month.
+- FriendJar (https://jarsuite.com/tipjar/#friendjar) — Customer referral add-on to TipJar. Personal referral links for customers and technicians. The office confirms matches before a reward is due. $49 per month. Requires TipJar.
+- ClickJar (https://jarsuite.com/clickjar/) — Ad reporting dashboard. Spend and leads across ad channels, keyword research, and SEO tracking, including where pages are missing in local results. $99 per month.
+- RingJar (https://jarsuite.com/ringjar/) — Call tracking. A tracking number per ad source, forwarded to the office line, with answered and missed calls logged, and callers matched to the customer list when possible. Not GPS and not a full phone system. $49 per month.
+- FleetJar (https://jarsuite.com/fleetjar/) — Fleet management for trucks: records, a QR code per truck, checklists, problem reports and repairs, service history, tires, parts and plate expirations. Not live GPS. $9 per truck per month, or $149 per month unlimited.
+
+Pricing: https://jarsuite.com/pricing/

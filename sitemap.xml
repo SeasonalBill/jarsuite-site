@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://jarsuite.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://jarsuite.com/quotejar.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jarsuite.com/tipjar.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jarsuite.com/clickjar.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jarsuite.com/ringjar.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jarsuite.com/fleetjar.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jarsuite.com/salesjar.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jarsuite.com/pricing.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jarsuite.com/contact.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://jarsuite.com/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://jarsuite.com/quotejar/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jarsuite.com/tipjar/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jarsuite.com/clickjar/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jarsuite.com/ringjar/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jarsuite.com/fleetjar/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jarsuite.com/salesjar/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jarsuite.com/pricing/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jarsuite.com/contact/</loc><lastmod>2026-11-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>

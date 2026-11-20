@@ -432,3 +432,34 @@ textarea { min-height: 8rem; resize: vertical; }
   .examples-grid { grid-template-columns: 1fr; }
   .examples .shot { max-height: 22rem; }
 }
+
+/* How it works / long copy / FAQ (SEO 2026-11-20) */
+.prose { max-width: 40rem; }
+.prose p { margin: 0 0 1rem; }
+.prose p:last-child { margin-bottom: 0; }
+.how { padding-top: 0.25rem; }
+.steps { list-style: none; padding: 0; margin: 0 0 0.5rem; max-width: 40rem; counter-reset: step; }
+.steps li {
+  counter-increment: step;
+  padding: 0.95rem 0 0.95rem 2.9rem;
+  border-top: 1px solid var(--line);
+  position: relative;
+  color: var(--muted);
+}
+.steps li:last-child { border-bottom: 1px solid var(--line); }
+.steps li::before {
+  content: counter(step);
+  position: absolute; left: 0; top: 0.95rem;
+  width: 1.75rem; height: 1.75rem;
+  border-radius: 8px;
+  background: var(--bar, var(--ink));
+  color: #fff;
+  font-size: 0.8rem; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+.steps li strong { display: block; color: var(--ink); font-weight: 700; margin-bottom: 0.15rem; }
+.faq-list { max-width: 40rem; }
+.faq-item { padding: 1rem 0; border-top: 1px solid var(--line); }
+.faq-item:last-child { border-bottom: 1px solid var(--line); }
+.faq-item h3 { font-family: var(--font); font-size: 1.05rem; letter-spacing: 0; margin: 0 0 0.4rem; }
+.faq-item p { margin: 0; color: var(--muted); }
